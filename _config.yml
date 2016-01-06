@@ -1,0 +1,28 @@
+name: Snelglasvezel.nu
+favicon: null
+layout_spectrum: 0.25921708601526916
+typography_spectrum: 0.8373229352291673
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2523503717966378
+  lightness: 0.42233490594662726
+  saturation: 0.3569537850562483
+  rhythmicContrast: 0.644143428420648
+purpose: []
