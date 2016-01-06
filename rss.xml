@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Snelglasvezel.nu]]></title>
+        <description><![CDATA[Snelglasvezel.nu]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 06 Jan 2016 17:29:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hallo]]></title>
+            <description><![CDATA[<article><h1>Hallo</h1><p>Geweldig dat wij nu glasvezel krijgen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ba86ed73428aee294005724d9f4d6eb1f1d3c7.jpg"></article>]]></description>
+            <link>undefinedhallo/index.html</link>
+            <guid isPermaLink="false">a6b91452-e106-488f-bcdb-c40aa2999fb8</guid>
+            <pubDate>Wed, 06 Jan 2016 17:29:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
