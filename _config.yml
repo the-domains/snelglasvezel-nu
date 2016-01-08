@@ -1,28 +1,40 @@
-name: Snelglasvezel.nu
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25574
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2523503717966378
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  lightness: 0
+  brandStrength: 0.2311828
+  brandColors:
+    - '#FFFFFF'
+    - '#805D42'
+    - '#00CC99'
+    - '#010100'
+    - '#F5BD28'
+  rhythmicContrast: 0
+typography_spectrum: 0.2956989
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Snelglasvezel.nu
