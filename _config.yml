@@ -1,7 +1,7 @@
 name: Snelglasvezel.nu
 favicon: null
-layout_spectrum: 0.25921708601526916
-typography_spectrum: 0.8373229352291673
+layout_spectrum: 1
+typography_spectrum: 0.25574
 cta:
   domain: null
   bucket: null
